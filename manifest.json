@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Spotify to Douban",
     "description": "Search Douban items from the Spotify album page.",
-    "version": "v0.0.0",
+    "version": "0.0.0",
     "homepage_url": "https://github.com/xvrzhao/spotify2douban",
     "background": {
         "service_worker": "background.js"
